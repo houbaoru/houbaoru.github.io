@@ -4,14 +4,14 @@ SEOTitle: 花花世界 | HBR Blog
 header-img: img/qianxi.jpg
 email: 1966309002@qq.com
 description: "Every failure is leading towards success."
-keyword: "花花世界, Blog, 保茹的博客, houbaoru, 保茹, Java"
+keyword: "小猪舍, Blog, 保茹的博客, houbaoru, 候保茹, Java"
 url: "http://houbaoru.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/houbaoru/houbaoru.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "程序源于生活!"
+sidebar-about-description: "接触即掌握，用过即专家"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
